@@ -39,7 +39,7 @@ General System Optimizations
 Installation and Usage
 1. Clone the Repository
 
-git clone https://github.com/yourusername/macos-ultimate-optimizer.git
+git clone https://github.com/RamRendezvous/macos-ultimate-optimizer.git
 cd macos-ultimate-optimizer
 
 2. Make the Script Executable
